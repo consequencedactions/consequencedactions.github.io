@@ -15,7 +15,7 @@ title = "Test"
 
 ##### Heading 5
 
-##### Heading 6
+##### Heading 6  
 
 **bold**
 
