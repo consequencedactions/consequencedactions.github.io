@@ -33,7 +33,7 @@ jobs:
           hugo-version: latest
           extended: true
 
-      - run: hugo --minify --environment production
+      - run: hugo  --environment production
 
       - uses: actions/configure-pages@v5
 
