@@ -1,10 +1,9 @@
 +++
-date = '2026-07-19T16:29:44+01:00'
+date = "2026-07-19T16:29"
 draft = true
-summary = 'summary that will appear in the main page, if not defined the post content will be used without format'
-title = 'Test'
+summary = "summary that will appear in the main page, if not defined the post content will be used without format"
+title = "Test"
 +++
-
 
 # Heading 1
 
@@ -16,6 +15,7 @@ title = 'Test'
 
 ##### Heading 5
 
+##### Heading 6
 
 **bold**
 
@@ -29,8 +29,6 @@ title = 'Test'
 >
 >line 2
 
-
-
 Blockquotes with Other Elements
 Blockquotes can contain other Markdown formatted elements. Not all elements can be used — you’ll need to experiment to see which ones work.
 
@@ -40,7 +38,6 @@ Blockquotes can contain other Markdown formatted elements. Not all elements can 
 > - Profits were higher than ever.
 >
 >  *Everything* is going according to **plan**.
-
 
 Ordered Lists
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
