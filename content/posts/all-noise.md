@@ -1,6 +1,6 @@
 +++
 title = "All noise."
-date = "2026-07-23T01:00"
+date = "2026-07-23T14:42:15+01:00"
 draft = false
 summary = "like cutting a page from a book."
 +++
