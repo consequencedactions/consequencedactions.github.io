@@ -1,8 +1,7 @@
 +++
 title = "Liberdades."
-date = "2026-07-23T00:59"
+date = "2026-07-23T14:42:15+01:00"
 draft = false
-summary = "summary that will appear in the main page, if not defined the post content will be used with format"
 +++
 
 Dizem que o mundo anda ao contrário,
