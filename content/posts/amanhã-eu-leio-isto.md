@@ -1,6 +1,6 @@
 +++
 title = "Amanhã eu leio isto."
-date = "2026-07-23T00:58"
+date = "2026-07-23T14:42:15+01:00"
 draft = false
 summary = "Para uns dias em breve."
 +++
