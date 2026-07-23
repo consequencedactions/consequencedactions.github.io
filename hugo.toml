@@ -3,6 +3,11 @@ locale = 'pt-pt'
 title = 'consequencedactions'
 theme = "PaperMod"
 
+[services]
+  [services.googleAnalytics]
+    id = "G-ZEWCZCMPL0"
+
+
 [[menu.main]]
 identifier = "search"
 name = "Search"
