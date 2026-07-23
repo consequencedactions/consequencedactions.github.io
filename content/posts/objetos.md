@@ -1,8 +1,7 @@
 +++
 title = "objetos"
-date = "2026-07-23T01:08"
+date = "2026-07-23T14:42:15+01:00"
 draft = false
-summary = "summary that will appear in the main page, if not defined the post content will be used with format"
 +++
 
 há dias em que falo com objetos
