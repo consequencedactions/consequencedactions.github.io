@@ -1,6 +1,6 @@
 +++
 title = "Arranco o nome às coisas."
-date = "2026-07-23T00:57"
+date = "2026-07-23T14:42:15+01:00"
 draft = false
 +++
 
