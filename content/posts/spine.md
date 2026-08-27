@@ -19,7 +19,7 @@ ironic how every compliment sounds like a way to keep something closed.
 A bent page
 becomes a bookmark.
 A bent woman
-becomes a warming.
+becomes a warning.
 
 I wonder
 how many of us mistook
