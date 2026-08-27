@@ -4,11 +4,11 @@ date = "2026-08-27T22:19:54+01:00"
 draft = false
 +++
 
-eu tinha tanta gente,
-agora tenho tão pouca gente.
+eu tinha tanta gente,  
+agora tenho tão pouca gente.  
 
-tantos nomes, tantas conversas,
-tantas promessas dispersas.
+tantos nomes, tantas conversas, 
+tantas promessas dispersas. 
 
 tenho-te a ti,
 e amo-te, sim,
