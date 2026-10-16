@@ -4,12 +4,12 @@ date = "2026-10-16T21:11:58+01:00"
 draft = false
 +++
 
-poemas sobre mussulínis, poemas sobre jardins,\
+poemas sobre mussulinis, poemas sobre jardins,\
 rimas tão forçadas que já nem têm fins.\
 a mente está baralhada, a lógica emparelhada,\
 mas a rima está perfeita, a mensagem é que não diz nada. 
  
-continuo convencido, com o ergo bem erguido,\
+continuo convencido, com o ego bem erguido,\
 se o sentido foi embora, foi porque estava aborrecido. 
  
 rimo sobre o vento, sobre o tempo e o sentimento,\
