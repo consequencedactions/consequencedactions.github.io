@@ -7,31 +7,31 @@ summary = "dedicado ao meu avô."
 
 “não há pior desgraça que cego em Granada.” 
  
-My grandfather 
-hands me the sentence 
+My grandfather\
+hands me the sentence\
 like it's older than both of us. 
  
 Blind. 
  
-Funny how the word 
+Funny how the word\
 fits over so many eyes. 
  
-The ones that read 
+The ones that read\
 without looking. 
  
-The ones that look 
+The ones that look\
 without seeing. 
  
-I used to think a poem 
+I used to think a poem\
 had to grow. 
  
-Now I think 
+Now I think\
 it has to erode. 
  
-Chip away 
+Chip away\
 at the noise 
  
-until what’s left 
-could have been 
-hidden inside the stone 
+until what’s left\
+could have been\
+hidden inside the stone\
 all along.

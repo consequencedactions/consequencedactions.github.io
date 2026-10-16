@@ -1,7 +1,7 @@
 +++
 title = "sofia."
 date = "2026-08-27T22:19:29+01:00"
-draft = false
+draft = true
 +++
 
 sofia. 
