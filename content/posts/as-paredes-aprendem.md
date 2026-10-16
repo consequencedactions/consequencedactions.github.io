@@ -4,12 +4,12 @@ date = "2026-07-24T23:46:16+01:00"
 draft = false
 +++
 
-As paredes sabem o meu tamanho, 
-medem o passo antes de eu passar. 
-Chamam-lhe ordem. Eu estranho 
-quem vive sem nunca duvidar. 
- 
-Ensinaram-me a baixar os olhos, 
+As paredes sabem o meu tamanho,       
+medem o passo antes de eu passar.    
+Chamam-lhe ordem. Eu estranho     
+quem vive sem nunca duvidar.           
+  
+Ensinaram-me a baixar os olhos,  
 a não fazer muito barulho. 
 Como se os sonhos, quando são enormes, 
 devessem caber dentro do orgulho. 
